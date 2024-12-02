@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "npx tailwindcss -i ./niko-style.css -o ./output.css --watch",
+    "prod": "npx tailwindcss -o ./dist/output.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
