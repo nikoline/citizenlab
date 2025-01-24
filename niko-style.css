@@ -6,7 +6,7 @@
 @layer base {
 
     body{
-        @apply bg-gray-100 dark:bg-slate-800
+        @apply bg-white dark:bg-slate-800
     }
     .head {
         @apply container border-t border-b border-solid border-black dark:border-white 
